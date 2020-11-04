@@ -1,0 +1,20 @@
+C:\Users\enriq\source\repos\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\enriq\source\repos\Roulette\bin\Debug\Roulette.exe
+C:\Users\enriq\source\repos\Roulette\bin\Debug\Roulette.pdb
+C:\Users\enriq\source\repos\Roulette\bin\Debug\ClassLibrary.dll
+C:\Users\enriq\source\repos\Roulette\bin\Debug\ClassLibrary.pdb
+C:\Users\enriq\source\repos\Roulette\obj\Debug\Roulette.csprojAssemblyReference.cache
+C:\Users\enriq\source\repos\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\Roulette\obj\Debug\Roulette.csproj.CopyComplete
+C:\Users\enriq\source\repos\Roulette\obj\Debug\Roulette.exe
+C:\Users\enriq\source\repos\Roulette\obj\Debug\Roulette.pdb
+C:\Users\Zack's Laptop\source\repos\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\Zack's Laptop\source\repos\Roulette\bin\Debug\Roulette.exe
+C:\Users\Zack's Laptop\source\repos\Roulette\bin\Debug\Roulette.pdb
+C:\Users\Zack's Laptop\source\repos\Roulette\bin\Debug\ClassLibrary.dll
+C:\Users\Zack's Laptop\source\repos\Roulette\bin\Debug\ClassLibrary.pdb
+C:\Users\Zack's Laptop\source\repos\Roulette\obj\Debug\Roulette.csprojAssemblyReference.cache
+C:\Users\Zack's Laptop\source\repos\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\Zack's Laptop\source\repos\Roulette\obj\Debug\Roulette.csproj.CopyComplete
+C:\Users\Zack's Laptop\source\repos\Roulette\obj\Debug\Roulette.exe
+C:\Users\Zack's Laptop\source\repos\Roulette\obj\Debug\Roulette.pdb

@@ -1,0 +1,18 @@
+C:\Users\enriq\source\repos\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\enriq\source\repos\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\enriq\source\repos\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\enriq\source\repos\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\enriq\source\repos\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\enriq\source\repos\Roulette\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\enriq\source\repos\Roulette\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\enriq\source\repos\Roulette\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\enriq\source\repos\Roulette\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\enriq\source\repos\Roulette\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\enriq\source\repos\Roulette\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Zack's Laptop\source\repos\Roulette\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Zack's Laptop\source\repos\Roulette\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Zack's Laptop\source\repos\Roulette\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Zack's Laptop\source\repos\Roulette\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zack's Laptop\source\repos\Roulette\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Zack's Laptop\source\repos\Roulette\ClassLibrary\obj\Debug\ClassLibrary.pdb
